@@ -1,8 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:lZiMUl?theme=rule34">
 
-## 前端工程师—天平
-
-热爱前端、热爱技术。工作经验两个月。喜欢参与一些开源项目的讨论。
+## 全棧高級項目架構師—lZiMUl
 
 ### **社交主页：**
 
