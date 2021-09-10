@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:lZiMUl?theme=rule34">
 
 ## 前端工程师—天平
 
@@ -7,7 +7,7 @@
 ### **社交主页：**
 
 - <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>：拥有22个技术视频，500多位粉丝，4万播放量
-- 
+
 ### **技术栈:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -20,7 +20,7 @@
 
 ### 开源项目
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=View)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=View)](https://github.com/lZiMUl/View)
 <br><br><br>
 
 
