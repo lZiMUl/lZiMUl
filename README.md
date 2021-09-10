@@ -19,7 +19,7 @@
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg"></code>
 
 ### 开源项目
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=View)](https://github.com/lZiMUl/View)
 <br><br><br>
 
