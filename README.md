@@ -20,7 +20,6 @@
 
 ### 开源项目
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=View)](https://github.com/lZiMUl/View)
 <br><br>
 
 ### Github活跃度
