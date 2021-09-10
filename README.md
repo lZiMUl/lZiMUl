@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
-- <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>：拥有22个技术视频，500多位粉丝，4万播放量
+- <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>：拥有22个技术视频，1150多位粉丝，3.4万播放量
 
 ### **技术栈:**
 
