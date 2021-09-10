@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
-- <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>：拥有22个技术视频，1150多位粉丝，3.4万播放量
+- <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
 
 ### **技术栈:**
 
@@ -24,7 +24,7 @@
 <br><br>
 
 ### Github活跃度
-[![](https://activity-graph.herokuapp.com/graph?username=lZiMUl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=lZiMUl&theme=dracula)](https://github.com/lZiMUl)
 
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=vue)
 
