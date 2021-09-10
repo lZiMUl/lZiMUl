@@ -7,8 +7,7 @@
 ### **社交主页：**
 
 - <a href="https://space.bilibili.com/1503877955"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>：拥有22个技术视频，500多位粉丝，4万播放量
-- <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/juejin.png"></code></a>：发表了14篇技术文章，5000阅读
-
+- 
 ### **技术栈:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -20,8 +19,8 @@
 <code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg"></code>
 
 ### 开源项目
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=View)
 <br><br><br>
 
 
