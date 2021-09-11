@@ -4,15 +4,15 @@
 
 ### **社交主頁：**
 
-- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
+- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/-bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
 
 ### **技術棧:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/element plus.png"></code>
-<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/vant.png"></code>
-<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/docker.jpg"></code>
+<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/element plus.png"></code>
+<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/vant.png"></code>
+<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/docker.jpg"></code>
 
 ### 開源項目
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
