@@ -4,7 +4,7 @@
 
 ### **社交主頁：**
 
-- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/-bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
+- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
 
 ### **技術棧:**
 
