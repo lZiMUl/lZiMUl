@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
+- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
 
 ### **技術棧:**
 
