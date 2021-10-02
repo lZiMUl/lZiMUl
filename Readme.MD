@@ -4,15 +4,20 @@
 
 ### **社交主頁：**
 
-- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
+- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
 
 ### **技術棧:**
 
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png" /></code></a>
+<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png" /></code></a>
+<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
+<a href="https://less.bootcss.com"><code><img height="20" src="./images/less.png"></code></a>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/element plus.png"></code>
-<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/vant.png"></code>
-<code><img height="20" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/docker.jpg"></code>
+<a href="https://element-plus.org/#/zh-CN"><code><img height="20" src="./images/elementPlus.png"></code></a>
+<a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
+<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### 開源項目
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
