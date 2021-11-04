@@ -20,9 +20,10 @@
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### 開源項目
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis/)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=web-basics-framework-template)](https://github.com/lZiMUl/web-basics-framework-template/)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=timer-mission)](https://github.com/lZiMUl/timer-mission/)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=html-json-highlight)](https://github.com/lZiMUl/html-json-highlight/)
 <br><br>
 
 ### GitHub活躍度
