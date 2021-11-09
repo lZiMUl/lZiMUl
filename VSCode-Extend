@@ -1,0 +1,23 @@
+{
+	"Auto Rename Tag": "HTML自動同步前後標籤",
+	"Beautify": "代碼樣式美化",
+	"Prettier": "保存文件並代碼樣式美化",
+	"Bracket Pair Colorizer 2": "花括號線性標記",
+	"GitLens": "增强自带Git功能",
+	"Path intellisense": "文件路径智能补全",
+	"VSCode Icons": "官方图标美化包",
+	"indent-ranbow": "縮進顏色柱標記",
+	"Browser Preview": "內置瀏覽器",
+	"Material Them": "VSCode風格樣式",
+	"LeetCode": "項目學習 && 項目幫助",
+	"CSS Peek": "预览或跳转到对应CSS样式定义",
+	"TODO-Highlight": "高亮标记TODO / FIXME标签",
+	"Live Server": "HTML文件實時更新顯示最新視圖",
+	"Quokka": "即时预览函数或表达式结果",
+	"markdown All in One": "Markdown文件實時更新顯示視圖",
+	"markdownlint": "Markdown語法檢測",
+	"WakaTime": "計算項目工程開發時間",
+	"code spell check": "代碼實時語法檢測",
+	"Visual Studio Intellicode": "當前代碼智能補全",
+	"翻译": "字面意思"
+}
