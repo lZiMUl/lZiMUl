@@ -6,7 +6,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：持有23个影片，1150多位追隨者，3.4萬播放量
+- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：持有29个影片，1243多位追隨者，4.7萬播放量
 
 ### **技術棧:**
 
@@ -20,10 +20,12 @@
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### 開源項目
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis/)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=web-basics-framework-template)](https://github.com/lZiMUl/web-basics-framework-template/)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=timer-mission)](https://github.com/lZiMUl/timer-mission/)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=html-json-highlight)](https://github.com/lZiMUl/html-json-highlight/)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=web-basics-framework-template)](https://github.com/lZiMUl/web-basics-framework-template)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Minecraft-Mods-Updater)](https://github.com/lZiMUl/Minecraft-Mods-Updater)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=MineCraft-Server-Telepor)](https://github.com/lZiMUl/MineCraft-Server-Teleport)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=timer-mission)](https://github.com/lZiMUl/timer-mission)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=html-json-highlight)](https://github.com/lZiMUl/html-json-highlight)
 <br><br>
 
 ### GitHub活躍度
