@@ -2,13 +2,13 @@
 
 ## 全栈项目架构师—lZiMUl
 
-### ** 社交主页：**
+### 社交主页:
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 - <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>
 
-### ** 技术栈: **
+### 技术栈:
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png" /></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png" /></code></a>
