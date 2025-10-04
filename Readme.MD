@@ -1,12 +1,12 @@
 <img align="right" src="https://count.getloli.com/get/@:lZiMUl?theme=rule34">
 
-## 全棧高級項目架構師—lZiMUl
+## 全栈项目架构师—lZiMUl
 
 ### **社交主頁：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：持有29个影片，1243多位追隨者，4.7萬播放量
+- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>
 
 ### **技術棧:**
 
