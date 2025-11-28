@@ -43,7 +43,6 @@
 [![MineCraft-Server-Teleport](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=MineCraft-Server-Teleport)](https://github.com/lZiMUl/MineCraft-Server-Teleport)
 [![timer-mission](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=timer-mission)](https://github.com/lZiMUl/timer-mission)
 
-***
 
 ## 📊 GitHub Activity:
 ![Stars](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
