@@ -2,11 +2,12 @@
 
 ## Full-Stack Project Architect — lZiMUl
 
+***
+
 ### Social Profiles
 [![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/)
 [![BiliBili](https://img.shields.io/badge/BiliBili-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/291883246)
 
-![Activity graph](https://raw.githubusercontent.com/lZiMUl/BEPb/output/github-contribution-grid-snake.svg)
 ***
 
 ### Tech Stack
