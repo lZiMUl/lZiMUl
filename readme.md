@@ -23,14 +23,14 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)  
 
 **Database:**  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 
 **DevOps / Tools:**  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)  
 
 **UI Libraries:**  
-[![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)](https://element-plus.org/)  
-[![Vant](https://img.shields.io/badge/Vant-1989FA?style=for-the-badge&logo=vant&logoColor=white)](https://vant-contrib.gitee.io/vant/v3/)
+[![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=flat-square&logo=element&logoColor=white)](https://element-plus.org/)  
+[![Vant](https://img.shields.io/badge/Vant-1989FA?style=flat-square&logo=vant&logoColor=white)](https://vant-contrib.gitee.io/vant/v3/)
 
 ***
 
