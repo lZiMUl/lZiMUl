@@ -25,17 +25,17 @@
 | **Cloud** | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/) |
 
 ***
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
+## 📈 GitHub Streak & Contributions
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
 
 ***
 
-## Trophy:
+## 🏆 GitHub Trophies:
 [![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=lZiMUl)]()
 
 ***
 
-## Open Source Projects:
+## 🛠️ Open Source Projects:
 [![Mcbbsmis](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
 [![mcwl4w](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
 [![Minecraft-Mods-Updater](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Minecraft-Mods-Updater)](https://github.com/lZiMUl/Minecraft-Mods-Updater)
@@ -45,7 +45,7 @@
 
 ***
 
-## GitHub Activity:
+## 📊 GitHub Activity:
 ![Stars](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl&theme=radical&layout=compact)
 
