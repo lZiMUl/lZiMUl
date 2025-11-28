@@ -3,10 +3,12 @@
 ## Full-Stack Project Architect — lZiMUl
 
 ### Social Profiles
-
+ ---
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 - <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>
+
+***
 
 ### Tech Stack
 
@@ -19,6 +21,8 @@
 - <a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
 - <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
+***
+
 ### Open Source Projects
 
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
@@ -29,11 +33,11 @@
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=timer-mission)](https://github.com/lZiMUl/timer-mission)
 <br><br>
 
+***
+
 ### GitHub Activity
 
 [![](https://activity-graph.herokuapp.com/graph?username=lZiMUl&theme=dracula)](https://github.com/lZiMUl)
-
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=vue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl)
 
