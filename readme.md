@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:lZiMUl?theme=rule34">
 
-# Full-Stack Project Architect — lZiMUl
+## Full-Stack Project Architect — lZiMUl
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Welcome+to+my+personal+homepage;I+am+a+full-stack+project+architect)](https://git.io/typing-svg)
 ***
@@ -26,12 +26,12 @@
 
 ***
 
-## 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies:
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=lZiMUl)
 
 ***
 
-## 🛠️ Open Source Projects:
+### 🛠️ Open Source Projects:
 [![Mcbbsmis](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
 [![mcwl4w](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
 [![Minecraft-Mods-Updater](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Minecraft-Mods-Updater)](https://github.com/lZiMUl/Minecraft-Mods-Updater)
@@ -41,11 +41,11 @@
 
 ***
 
-## 📈 GitHub Streak & Contributions
+### 📈 GitHub Streak & Contributions
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
 
 ***
 
-## 📊 GitHub Activity:
+### 📊 GitHub Activity:
 ![Stars](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl&theme=radical&layout=compact)
