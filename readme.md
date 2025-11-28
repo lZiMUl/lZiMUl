@@ -28,18 +28,6 @@
 
 ***
 
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-
-***
-
 ### Open Source Projects
 [![mcwl4w](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
 [![Mcbbsmis](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
@@ -51,8 +39,8 @@ graph TD;
 ***
 
 ### GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl&theme=radical&layout=compact)
+![Stars](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl&theme=radical&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
 
 ***
