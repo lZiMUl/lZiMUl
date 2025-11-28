@@ -1,11 +1,12 @@
+# Full-Stack Project Architect — lZiMUl
+
 <img align="right" src="https://count.getloli.com/get/@:lZiMUl?theme=rule34">
 
-## Full-Stack Project Architect — lZiMUl
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Welcome+to+my+personal+homepage;I+am+a+full-stack+project+architect)](https://git.io/typing-svg)
+
 ***
 
-### 🌐 Social Links:
+## 🌐 Social Links:
 | Platform | Link |
 |:--------:|------|
 | **Homepage** | [![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/) |
@@ -14,7 +15,7 @@
 
 ***
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 | Category | Technologies |
 |:--------:|--------------|
 | **Frontend** | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/) [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
@@ -26,12 +27,12 @@
 
 ***
 
-### 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies:
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=lZiMUl)
 
 ***
 
-### 🛠️ Open Source Projects:
+## 🛠️ Open Source Projects:
 [![Mcbbsmis](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
 [![mcwl4w](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
 [![Minecraft-Mods-Updater](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Minecraft-Mods-Updater)](https://github.com/lZiMUl/Minecraft-Mods-Updater)
@@ -41,11 +42,11 @@
 
 ***
 
-### 📈 GitHub Streak & Contributions
+## 📈 GitHub Streak & Contributions
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
 
 ***
 
-### 📊 GitHub Activity:
+## 📊 GitHub Activity:
 ![Stars](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl&theme=radical&layout=compact)
