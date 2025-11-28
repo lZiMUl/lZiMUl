@@ -12,6 +12,26 @@
 
 ### Tech Stack
 
+**Frontend:**  
+- [![Vue](./images/vue.png)](https://v3.cn.vuejs.org) Vue.js
+- [![TypeScript](./images/typescript.png)](https://www.tslang.cn/index.html) TypeScript
+- [![Vite](./images/vite.png)](https://cn.vitejs.dev) Vite
+- [![Less](./images/less.png)](https://less.bootcss.com) Less
+- ![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) JavaScript
+
+**Backend:**  
+- [![Java](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)](https://www.oracle.com/java/) Java
+
+**Database:**  
+- [![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)](https://www.mongodb.com/) MongoDB
+
+**DevOps / Tools:**  
+- [![Docker](./images/docker.png)](https://www.docker.com) Docker
+
+**UI Libraries:**  
+- [![Element Plus](./images/elementPlus.png)](https://element-plus.org/#/zh-CN) Element Plus
+- [![Vant](./images/vant.png)](https://vant-contrib.gitee.io/vant/v3/#/zh-CN) Vant
+
 - <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png" /></code></a>
 - <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png" /></code></a>
 - <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
