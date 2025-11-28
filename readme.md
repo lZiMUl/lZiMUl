@@ -23,14 +23,18 @@
 
 ***
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
+
+***
+
 ### Trophy: Github Profile Trophy
-[![](https://github-profile-trophy.vercel.app/?username=lZiMUl)]()
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=lZiMUl)]()
 
 ***
 
 ### Open Source Projects
-[![mcwl4w](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
 [![Mcbbsmis](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
+[![mcwl4w](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
 [![Minecraft-Mods-Updater](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Minecraft-Mods-Updater)](https://github.com/lZiMUl/Minecraft-Mods-Updater)
 [![LawAssistAdventure](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=LawAssistAdventure)](https://github.com/lZiMUl/LawAssistAdventure)
 [![MineCraft-Server-Teleport](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=MineCraft-Server-Teleport)](https://github.com/lZiMUl/MineCraft-Server-Teleport)
@@ -41,6 +45,5 @@
 ### GitHub Activity
 ![Stars](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl&theme=radical&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
 
 ***
