@@ -23,6 +23,7 @@
 
 ***
 
+```mermaid
 graph TD;
     machine-learning-->Data;
     machine-learning-->Algorithms;
@@ -30,12 +31,7 @@ graph TD;
     machine-learning-->Feature-Engineering;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
-
-***
-
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl&theme=radical&layout=compact)
-![Quiec's github stats](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
+   ```
 
 ***
 
@@ -52,7 +48,8 @@ graph TD;
 
 ### GitHub Activity
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl&theme=dark)](https://github.com/lZiMUl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=react)
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=lZiMUl&show_icons=true&theme=radical&include_all_commits=true)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lZiMUl&theme=radical&layout=compact)
+![Quiec's github stats](https://github-readme-streak-stats.herokuapp.com/?user=lZiMUl)
 
+***
