@@ -14,7 +14,7 @@
 - <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png" /></code></a>
 - <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
 - <a href="https://less.bootcss.com"><code><img height="20" src="./images/less.png"></code></a>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 - <a href="https://element-plus.org/#/zh-CN"><code><img height="20" src="./images/elementPlus.png"></code></a>
 - <a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
 - <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
