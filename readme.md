@@ -3,10 +3,9 @@
 ## Full-Stack Project Architect — lZiMUl
 
 ### Social Profiles
- ---
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+[![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/)
+[![BiliBili](https://img.shields.io/badge/BiliBili-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/291883246)
 
-- <a href="https://b23.tv/ebY27F"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>
 
 ***
 
