@@ -1,6 +1,7 @@
 <img align="right" src="https://count.getloli.com/get/@:lZiMUl?theme=rule34">
 
 ## Full-Stack Project Architect — lZiMUl
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Welcome+to+my+personal+homepage;I+am+a+full-stack+project+architect)](https://git.io/typing-svg)
 
 ***
 
