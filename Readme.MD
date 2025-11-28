@@ -13,35 +13,35 @@
 ### Tech Stack
 
 **Frontend:**  
-[![Vue](https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png =20x20)](https://vuejs.org/) Vue.js  
-[![TypeScript](https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png =20x20)](https://www.typescriptlang.org/) TypeScript  
-[![Vite](https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png =20x20)](https://vitejs.dev/) Vite  
-[![Less](https://raw.githubusercontent.com/github/explore/main/topics/less/less.png =20x20)](https://lesscss.org/) Less  
-[![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png =20x20)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript  
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue&logoColor=4FC08D)](https://vuejs.org/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)  
+[![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 **Backend:**  
-[![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png =20x20)](https://www.oracle.com/java/) Java  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)  
 
 **Database:**  
-[![MongoDB](https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png =20x20)](https://www.mongodb.com/) MongoDB  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 
 **DevOps / Tools:**  
-[![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png =20x20)](https://www.docker.com/) Docker  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
 
 **UI Libraries:**  
-[![Element Plus](https://raw.githubusercontent.com/github/explore/main/topics/element/element.png =20x20)](https://element-plus.org/) Element Plus  
-[![Vant](https://raw.githubusercontent.com/github/explore/main/topics/vant/vant.png =20x20)](https://vant-contrib.gitee.io/vant/v3/) Vant
+[![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)](https://element-plus.org/)  
+[![Vant](https://img.shields.io/badge/Vant-1989FA?style=for-the-badge&logo=vant&logoColor=white)](https://vant-contrib.gitee.io/vant/v3/)
 
 ***
 
 ### Open Source Projects
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Minecraft-Mods-Updater)](https://github.com/lZiMUl/Minecraft-Mods-Updater)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=LawAssistAdventure)](https://github.com/lZiMUl/LawAssistAdventure)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=MineCraft-Server-Teleport)](https://github.com/lZiMUl/MineCraft-Server-Teleport)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=timer-mission)](https://github.com/lZiMUl/timer-mission)
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=mcwl4w)](https://github.com/lZiMUl/mcwl4w)
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Mcbbsmis)](https://github.com/lZiMUl/Mcbbsmis)
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=Minecraft-Mods-Updater)](https://github.com/lZiMUl/Minecraft-Mods-Updater)
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=LawAssistAdventure)](https://github.com/lZiMUl/LawAssistAdventure)
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=MineCraft-Server-Teleport)](https://github.com/lZiMUl/MineCraft-Server-Teleport)
+[![project](https://github-readme-stats.vercel.app/api/pin/?username=lZiMUl&repo=timer-mission)](https://github.com/lZiMUl/timer-mission)
 <br><br>
 
 ***
