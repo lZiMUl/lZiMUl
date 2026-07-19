@@ -13,6 +13,47 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Welcome+to+my+personal+homepage;I+am+a+full-stack+project+architect)](https://git.io/typing-svg)
 
 <p align="center">
+  <img alt="gradient-line" height="6px" src="/assets/images/gradient-line.png" width="100%"/>
+</p>
+
+<h2>🙋 About Me</h2>
+
+<div align="left">
+
+<h3>🌟 Who I am</h3>
+  <p>
+    <strong>Frontend Developer</strong>
+    passionate about creating
+    <strong>responsive, user-friendly</strong>
+    web applications with
+    <strong>clean, maintainable code</strong>.
+  </p>
+
+<h3>📚 Currently Learning</h3>
+  <ul>
+    <li><strong>React</strong> & <strong>TypeScript</strong> (Advanced)</li>
+    <li><strong>State Management</strong> (Context API, Redux Toolkit)</li>
+    <li>Modern <strong>UI/UX Design</strong> principles</li>
+    <li><strong>Performance Optimization</strong> techniques</li>
+  </ul>
+
+<h3>🚀 What Drives Me</h3>
+  <ul>
+    <li>Building <strong>meaningful applications</strong></li>
+    <li>Learning <strong>new technologies</strong></li>
+    <li><strong>Open Source</strong> contributions</li>
+    <li>Team collaboration</li>
+  </ul>
+
+<h3>🎯 Vision</h3>
+  <p>
+    To become a <strong>Full-Stack Developer</strong>, mastering both
+    <strong>frontend and backend</strong> technologies.
+  </p>
+
+</div>
+
+<p align="center">
   <img alt="Profile Views"
        src="https://komarev.com/ghpvc/?username=lZiMUl&label=Profile%20Views&color=bf91f3&style=flat"/>
   <img alt="Followers"
@@ -29,14 +70,15 @@
 
 ## 🌐 Social Links
 
-|   Platform   |                                                                          Link                                                                           | -- |   Platform    |                                                                      Link                                                                       | -- |   Platform   |                                                                                Link                                                                                 |
-|:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:--:|:-------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:--:|:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Homepage** |            [![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/)            | -- | **BiliBili**  | [![BiliBili](https://img.shields.io/badge/lZiMUl-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/291883246) | -- |  **Github**  |                  [![Github](https://img.shields.io/badge/lZiMUl-01040A?style=flat-square&logo=github&logoColor=white)](https://github.com/lZiMUl)                   |
-|   **Npm**    |             [![Npm](https://img.shields.io/badge/lZiMUl-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~lzimul)              | -- |  **Youtube**  |    [![Youtube](https://img.shields.io/badge/lZiMUl-CB3837?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@lzimul)     | -- | **WhatsApp** |     [![WhatsApp](https://img.shields.io/badge/lZiMUl-00D756?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Fjnqv5PNK5m541EsL62X60)     |
-| **Facebook** |       [![Facebook](https://img.shields.io/badge/lZiMUl-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/lzimul)        | -- | **Instagram** | [![Instagram](https://img.shields.io/badge/lZiMUl-f800AB?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lzimul/)  | -- |    **X**     |                          [![X](https://img.shields.io/badge/lZiMUl-131314?style=flat-square&logo=x&logoColor=white)](https://x.com/lZiMUl)                          |
-| **Discord**  |         [![Discord](https://img.shields.io/badge/lZiMUl-5662F6?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/kBtBH6HCD9)          | -- |  **Reddit**   |   [![Reddit](https://img.shields.io/badge/lZiMUl-FD4401?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/lZiMUl/)    | -- | **Spotify**  | [![Spotify](https://img.shields.io/badge/lZiMUl-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31om2aemowaqeb6cdyae5xpse3qu) |
-|   **Kick**   |               [![Kick](https://img.shields.io/badge/lZiMUl-53FC18?style=flat-square&logo=kick&logoColor=white)](https://kick.com/lzimul)                | -- |   **Gmail**   |      [![Gmail](https://img.shields.io/badge/lZiMUl-FC423E?style=flat-square&logo=gmail&logoColor=white)](mailto:lZiMUl<lZiMUl@lzimul.com>)      | -- |    **QQ**    |                    [![QQ](https://img.shields.io/badge/lZiMUl-FAAD08?style=flat-square&logo=qq&logoColor=white)](https://qm.qq.com/q/1pFc609Ius)                    |
-|  **WeChat**  | [![WeChat](https://img.shields.io/badge/lZiMUl-03DB6B?style=flat-square&logo=wechat&logoColor=white)](https://u.wechat.com/ENO3NEjq1sqPICvNxuEZy4g?s=4) | -- |               |                                                                                                                                                 | -- |              |                                                                                                                                                                     |
+|       Platform       |                                                                          Link                                                                           |   --   |                                                           Platform                                                            |                                                                      Link                                                                       | -- |   Platform   |                                                                                Link                                                                                 |
+|:--------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:--:|:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     **Homepage**     |            [![lZiMUl](https://img.shields.io/badge/lZiMUl-FF6700?style=flat-square&logo=wordpress&logoColor=white)](https://www.lzimul.com/)            |   --   |                                                         **BiliBili**                                                          | [![BiliBili](https://img.shields.io/badge/lZiMUl-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/291883246) | -- |  **Github**  |                  [![Github](https://img.shields.io/badge/lZiMUl-01040A?style=flat-square&logo=github&logoColor=white)](https://github.com/lZiMUl)                   |
+|       **Npm**        |             [![Npm](https://img.shields.io/badge/lZiMUl-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~lzimul)              |   --   |                                                          **Youtube**                                                          |    [![Youtube](https://img.shields.io/badge/lZiMUl-CB3837?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@lzimul)     | -- | **WhatsApp** |     [![WhatsApp](https://img.shields.io/badge/lZiMUl-00D756?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Fjnqv5PNK5m541EsL62X60)     |
+|     **Facebook**     |       [![Facebook](https://img.shields.io/badge/lZiMUl-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/lzimul)        |   --   |                                                         **Instagram**                                                         | [![Instagram](https://img.shields.io/badge/lZiMUl-f800AB?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lzimul/)  | -- |    **X**     |                          [![X](https://img.shields.io/badge/lZiMUl-131314?style=flat-square&logo=x&logoColor=white)](https://x.com/lZiMUl)                          |
+|     **Discord**      |         [![Discord](https://img.shields.io/badge/lZiMUl-5662F6?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/kBtBH6HCD9)          |   --   |                                                          **Reddit**                                                           |   [![Reddit](https://img.shields.io/badge/lZiMUl-FD4401?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/lZiMUl/)    | -- | **Spotify**  | [![Spotify](https://img.shields.io/badge/lZiMUl-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31om2aemowaqeb6cdyae5xpse3qu) |
+|       **Kick**       |               [![Kick](https://img.shields.io/badge/lZiMUl-53FC18?style=flat-square&logo=kick&logoColor=white)](https://kick.com/lzimul)                |   --   |                                                           **Gmail**                                                           |                [![Gmail](https://img.shields.io/badge/lZiMUl-FC423E?style=flat-square&logo=gmail&logoColor=white)](mailto:lZiMUl                |    |              |                                                                                                                                                                     |
+| <lZiMUl@lzimul.com>) |                                                                           --                                                                            | **QQ** | [![QQ](https://img.shields.io/badge/lZiMUl-FAAD08?style=flat-square&logo=qq&logoColor=white)](https://qm.qq.com/q/1pFc609Ius) |                                                                                                                                                 |    |              |                                                                                                                                                                     |
+|      **WeChat**      | [![WeChat](https://img.shields.io/badge/lZiMUl-03DB6B?style=flat-square&logo=wechat&logoColor=white)](https://u.wechat.com/ENO3NEjq1sqPICvNxuEZy4g?s=4) |   --   |                                                                                                                               |                                                                                                                                                 | -- |              |                                                                                                                                                                     |
 
 <p align="center">
   <img alt="gradient-line" height="6px" src="/assets/images/gradient-line.png" width="100%"/>
